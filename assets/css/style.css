@@ -1,0 +1,108 @@
+a{
+	text-decoration: none;
+	color: grey;
+}
+
+body{
+	background: #eeeeee;
+}
+
+
+header{
+	float: left;
+	text-align: center;
+	background: #55A6A7;
+	color: white;
+	width: 20%;
+	padding: 5px;
+	margin-left: 100px;
+	margin-top: -10px;
+}
+
+nav{
+	margin-top: -10px;
+	text-align: right;
+	background: #FCFFFD;
+	width: 95%;
+	color: grey: ;
+	padding: 30px;
+}
+
+.container{
+	margin: 0 auto;
+	width: 960px;
+	height: 100%;
+}
+
+h2{
+	margin-top: 0px;
+	font-color: #6BA4A6;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#main-bio{
+	box-sizing: border-box;
+	height: 400px;
+	width: 650px;
+	padding: 50px;
+	background: white;
+	float: left;
+	color: #72A5A0;
+	position: none;
+}
+
+#pro-pic{
+	margin-right: 20px;
+	width: 150px;
+	height: 150px;
+	float: left;
+	position: none;
+}
+
+#para{
+
+}
+
+aside{
+	position: none;
+	background: white;
+	width: 270px;
+	height: 200px;
+	float: right;
+}
+
+h3{
+	text-align: center;
+	color: #6BA4A6;
+}
+
+#dumb{
+	width: 250px;
+
+}
+
+#social{
+	display: block;
+	margin: 0 auto;
+	width: 250px;
+	height: 100px;
+}
+
+
+footer{
+	font-size: 10px;
+	color: white;
+	height: 10px;
+	background: blue;
+	text-align: center;
+	bottom: 0;
+	margin: 0 auto;
+	background: grey;
+	padding: 10px;
+	width:100%;
+	height: 10px;
+	position: fixed;
+	border-top: #55A6A7 5px solid;
+}
+
