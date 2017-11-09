@@ -163,7 +163,9 @@ aside{
 }
 
 h3{
+	font-size: 20px;
 	margin-top: 15px;
+	margin-bottom: 15px;
 	font-size: 24;
 	font-weight:bold;
 	text-align: center;
@@ -175,11 +177,21 @@ h3{
 
 }
 
+.links{
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
 #social{
-	display: block;
-	margin: 0 auto;
-	width: 250px;
-	height: 100px;
+	width: 75px;
+}
+
+#social2{
+	width: 75px;
+}
+
+#social3{
+	width: 75px;
 }
 
 
